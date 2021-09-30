@@ -1,1 +1,1 @@
-# CheckPoint2-ProgInterativa
+# CheckPoint2-ProgImperativa
